@@ -10,4 +10,6 @@ Set of scripts for benchmarking/load testing MindMatch stack
 
 ### Testing the mather_api endpoint
 
-* TODO: Add script execution instructions
+```shell
+wrk --latency --script matcher_api.lua http://localhost:8000
+```
