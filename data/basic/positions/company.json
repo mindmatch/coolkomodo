@@ -1,0 +1,16 @@
+{
+  "name": "MindMatch GmbH",
+  "location": ["Berlin, Germany"],
+  "url": "https://www.mindmatch.ai",
+  "profileUrls": [
+    "https://github.com/mindmatch",
+    "https://linkedin.com/company/mindmatch_ai"
+  ],
+  "positions": [
+    {
+      "refId": "optional reference id",
+      "name": "Ruby Backend Developer",
+      "description": "4+ years experience with Ruby on Rails and API's"
+    }
+  ]
+}

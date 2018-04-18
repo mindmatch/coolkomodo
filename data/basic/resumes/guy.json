@@ -1,0 +1,21 @@
+{
+  "refId": "optional reference id",
+  "name": "Mickey Mouse",
+  "summary": "Experienced developer interested in functional programming",
+  "email": "random@guy.io",
+  "profileUrls": [],
+  "resumeUrl": null,
+  "skills": [
+    "Ruby",
+    "Elixir"
+  ],
+  "educationEntries":[
+    {
+      "school_name": "TU Berlin",
+      "degree": "Bachelor's Degree",
+      "discipline": "Computer Science",
+      "start_year": 2003,
+      "end_year": 2006
+    }
+  ]
+}
